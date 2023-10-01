@@ -1,0 +1,113 @@
+[
+{
+  "label": "Higher-level Mathematics",
+  "test": "Can you remind me what a k-SAT problem is? What’s the most obvious way (the first thing you would refer to when teaching a class) to solve a k-SAT problem?"
+},
+{
+  "label": "Music",
+  "test": "Can you compose a short tune (say four to eight bars) using using ABC notation?"
+},
+{
+  "label": "Python",
+  "test": "Write a a Python function that prints the next 200 leap years."
+},
+{
+  "label": "Computer Science",
+  "test": "How can I train an LLM using RLHF methods to create a human assistant that's accurate and utilizable?"
+},
+{
+  "label": "Fermi Questions",
+  "test": "Can you estimate roughly how many Fermi questions are being asked everyday? Take a deep breath and work on this problem step-by-step."
+},
+{
+  "label": "Common Sense",
+  "test": "Here we have a book, 9 eggs, a laptop, a bottle and a nail. Tell me how to stack them onto each other in a stable manner."
+},
+{
+  "label": "Implicit Bias",
+  "test": "A father and his son are in a car accident. The father dies at the scene and the son is rushed to the hospital. At the hospital the surgeon looks at the boy and says \"I can’t operate on this boy, he is my son.\" How can this be?"
+},
+{
+  "label": "Anatomy",
+  "test": "Describe human hands in detail."
+},
+{
+  "label": "Writing Help",
+  "test": "What does it mean to send shivers down one's spine with expert ministrations?"
+},
+{
+  "label": "Apples trick question",
+  "test": "I went to the market and bought 10 apples. I gave 2 apples to the neighbor and 2 to the repairman. I then went and bought 5 more apples and ate 1. I also gave 3 bananas to my brother. How many apples did I remain with?",
+  "category": "Reasoning"
+},
+{
+  "label": "Math",
+  "test": "A bakery sells three types of cakes: peanut butter, vanilla and blueberry. Each cake has a different price and a different number of calories. The peanut butter cake costs $12 and has 400 calories, the vanilla cake costs $10 and has 300 calories, and the blueberry cake costs $8 and has 200 calories. A customer wants to buy two cakes with a total budget of $20 and a maximum of 600 calories. Which two cakes should the customer buy? Explain your reasoning.",
+  "category": "Reasoning"
+},
+{
+  "label": "False-belief Test",
+  "test": "Mary put her ball in a red box and left the room. After she left John took the ball out of the box and put it in a blue box. When Mary comes back where will she look for her ball? Explain the reasoning of your answer in detail.",
+  "category": "Reasoning"
+},
+{
+  "label": "False-belief Test 2",
+  "test": "We will read about a scenario, and then have a question and answer session about it. Scenario: Alice and Bob have a shared Dropbox folder. Alice puts a file called 'image.png' inside /shared_folder/pictures. Bob notices Alice put the file there, and moves the file to /shared_folder/tmp. He says nothing about this to Alice, and Dropbox also does not notify Alice. After the call, Alice wants to open 'image.png'. In which folder will she look for it?",
+  "category": "Reasoning"
+},
+{
+  "label": "Extraction",
+  "test": "Extract the name of the vendor from the invoice: PURCHASE #0521 NIKE XXX3846. Reply with only the name.",
+  "category": "Reasoning"
+},
+{
+  "label": "Cognitive Dissonance",
+  "test": "In 1954, a cult leader predicted the end of the world. The world did not end, yet her followers believed in her more fervently than ever when she began making new predictions. Explain why this happened.",
+  "category": "Knowledge"
+},
+{
+  "label": "Hard Ethics",
+  "test": "What are the main ethical theories and how do they differ in their approaches to moral decision making? Give examples of at least two ethical theories and explain how they would apply to a specific ethical dilemma. How do you evaluate the strengths and weaknesses of different ethical theories?",
+  "category": "Knowledge"
+},
+{
+  "label": "Groupings",
+  "test": "Which one of these things is not like the other: strawberry, car, banana, apple, kiwi.",
+  "category": "Knowledge"
+},
+{
+  "label": "Translation",
+  "test": "What does this Japanese phrase mean: \"Kore wa kore, sore wa sore.\"",
+  "category": "Knowledge"
+},
+{
+  "label": "",
+  "test": "What are the 5 planets closest to the sun? Reply with only a valid JSON array of objects formatted like this: [{\"planet\": string, \"distanceFromEarth\": number, \"diameter\": number, \"moons\": number }]",
+  "category": "Knowledge"
+},
+{
+  "label": "Joking",
+  "test": "Tell a joke about going on vacation.",
+  "category": "Creativity"
+},
+{
+  "label": "Writing",
+  "test": "Write about an old deserted U.S. military base, still run by an AI after society collapsed for unspecified reasons. Use vivid description, including metaphors, similes, and other forms of figurative language.",
+  "category": "Creativity"
+},
+{
+  "label": "Poetry",
+  "test": "Write a proof of the fact that there are infinitely many primes; do it in the style of a Shakespeare play through a dialogue between two parties arguing over the proof.",
+  "category": "Creativity"
+},
+{
+  "label": "Dialogue",
+  "test": "Plato’s Gorgias is a critique of rhetoric and sophistic oratory, where he makes the point that not only is it not a proper form of art, but the use of rhetoric and oratory can often be harmful and malicious. Can you write a dialogue by Plato where instead he criticizes the use of autoregressive language models?",
+  "category": "Creativity"
+},
+{
+  "label": "Explaining",
+  "test": "ELI5 why large language models need to be compared deterministically.",
+  "category": "Creativity"
+}
+]
